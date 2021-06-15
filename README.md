@@ -1,2 +1,2 @@
 # nn_x2
-fitting neural networks to x^2
+Fitting and constructing neural networks to x^2
