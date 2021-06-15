@@ -1,0 +1,9 @@
+## The .gitignore file specifies things that git should ignore.
+.git/
+
+data/*
+!data/.gitkeep
+
+# Python / PyCharm
+__pycache__/
+.idea
